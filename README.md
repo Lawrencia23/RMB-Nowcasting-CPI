@@ -5,7 +5,7 @@ Nowcasting CPI using macroeconomic and time series data (Zindi Challenge)
 
 This project is part of the Zindi RMB Monthly Mini Challenge.
 
-## 🎯 Objective
+## Objective
 Predict July CPI (Consumer Price Index) using historical CPI and economic indicators.
 
 ## Project Structure
